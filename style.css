@@ -3,12 +3,14 @@
    padding: 0;
 }
 
-a{text-decoration: none;
-color: #000000;}
+a {text-decoration: none;
+color: #080808;
+font-family: 'Lobster', cursive;
+} 
 
 body {
-   font-family: 'Coming Soon', cursive;
-   background-color: #ffffff;
+   font-family: 'Lobster', cursive;
+   background-color: #02020241;
    color: #000000;
 }
 
@@ -16,7 +18,7 @@ body {
    color: #000000;
    font-size: 42px;
    font-weight: 800;
-   font-family: 'Bad Script', cursive;
+   font-family: 'Lobster', cursive;
 }
 
 h1 {
@@ -36,7 +38,7 @@ h1 {
    flex-direction: column;
    height: 60vh;
    background-size: cover;
-   background-image: url(img/hero_background.jpg);
+   background-image: url(img/Ebns10zXkAU1oFK.jpg);
    
    background-position: center
 }
@@ -67,24 +69,24 @@ h2 {
 }
 
 .card .foto1 {
-   background-image: url(./img/aleksandra-tanasiienko-0y6eMd8vevA-unsplash.jpg);
+   background-image: url(./img/10704095.jpg);
    background-size: cover;
    background-position: center;
-   padding: 80px 40px;
+   padding: 90px 40px;
 }
 
 .card .foto2 {
-   background-image: url(./img/brooke-lark-GTMGG-xvxdU-unsplash\(1\).jpg);
+   background-image: url(./img/92d59ce6dafe95a7dce087d746ab4b9e.jpg);
    background-size: cover;
    background-position: center;
-   padding: 80px 40px;
+   padding: 90px 40px;
 }
 
 .card .foto3 {
-   background-image: url(./img/brooke-lark-HjWzkqW1dgI-unsplash.jpg);
+   background-image: url(./img/HD-wallpaper-adidas-adidas-stripes-thumbnail.jpg);
    background-size: cover;
    background-position: center;
-   padding: 80px 40px;
+   padding: 90px 40px;
 }
 
 
@@ -93,7 +95,7 @@ h2 {
 }
 
 nav {
-   background-color: #ffffff;
+   background-color: #29282831;
    height: 10vh;
    padding: 16px 0px;
    color: #000000;
@@ -138,23 +140,23 @@ nav li {
    text-decoration: none;
 }
 
-.card .macarronada {
-   background-image: url(./img/pasta.jpg);
+.card .NIKE {
+   background-image: url(./img/nike.jpg);
    background-size: cover;
    background-position: center;
-   padding: 80px 40px;
+   padding: 220px 40px;
 }
 
-.card .sopa {
-   background-image: url(./img/soup.jpg);
+.card .PUMA {
+   background-image: url(./img/puma.jpg);
    background-size: cover;
    background-position: center;
-   padding: 80px 40px;
+   padding: 220px 40px;
 }
 
-.card .pao {
-   background-image: url(./img/bread.jpg);
+.card .ADIDAS {
+   background-image: url(./img/adidas.jpg);
    background-size: cover;
    background-position: center;
-   padding: 80px 40px;
+   padding: 220px 40px;
 }
